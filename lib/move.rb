@@ -19,6 +19,4 @@ def move(board, index, player="X")
   end
   
   update_array_at_with(board,index,player)
-    
-  return board
 end
