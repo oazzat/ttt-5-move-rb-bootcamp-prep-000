@@ -13,6 +13,6 @@ inp = gets.strip
 
 input_to_index(inp)
 
-move(board,inp)
+move(board,inp,"X")
 
 display_board
