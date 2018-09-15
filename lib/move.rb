@@ -9,7 +9,7 @@ end
 # code your input_to_index and move method here!
 
 def input_to_index (pos)
-  pos = (pos.to_i) - 1
+  pos = ((pos.to_i) - 1)
 end
 
 
